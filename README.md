@@ -6,6 +6,7 @@ molestar. El homogeneizador mezcla la sangre de los tubos para la realización d
 
 ![image](https://user-images.githubusercontent.com/14803755/211785648-6acad60e-0767-459b-98d0-2cfc0a5ebcfa.png)
 
+El proyecto y los modelos 3D se pueden ver en: [Cults3D](https://cults3d.com/es/modelo-3d/herramientas/homogeneizador-hematologico-jaf3d-2)  
 
 - Voltaje: 220VAC – Se utiliza una fuente de 5VDC 1A
 - Consumo: < 2W
